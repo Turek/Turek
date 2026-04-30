@@ -1,5 +1,3 @@
-## Tomasz Turczyński
-
 Senior developer and architect. 15+ years hands-on. Based in London.
 
 I run **Turczynski Interactive Ltd** — fractional CTO, Drupal / PHP, .NET / C#, and AI mobile MVPs and production RAG systems.
