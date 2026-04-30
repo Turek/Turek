@@ -23,4 +23,3 @@ Architecture, code, and everything between.
 
 - 🌐 [turczynski.com](https://turczynski.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/turczynski/)
-- 📧 tomasz@turczynski.com
