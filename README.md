@@ -1,16 +1,26 @@
-## Hi there 👋
+## Tomasz Turczyński
 
-<!--
-**Turek/Turek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior developer and architect. 15+ years hands-on. Based in London.
 
-Here are some ideas to get you started:
+I run **Turczynski Interactive Ltd** — fractional CTO, Drupal / PHP, .NET / C#, and AI mobile MVPs and production RAG systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Architecture, code, and everything between.
+
+### What I work on
+
+- **Fractional CTO / Interim Technical Director** — architecture, hiring, roadmaps. Code alongside the team.
+- **AI mobile MVPs and RAG** — embeddings, vector stores, evals, cost controls.
+- **Drupal 8–11 consultancy** — D7 → D10 migrations, performance, security audits.
+- **.NET / C#** — enterprise backends, MSSQL, integrations, DevOps.
+
+### Selected
+
+- [turczynski.com](https://turczynski.com) — services and contact.
+- **Sedno** — *Your symptoms have a story.* AI-powered symptom-journal app. Approved by Apple App Store and Google Play.
+- [drupal.org/u/Turek](https://www.drupal.org/u/Turek) — Drupal contributions.
+
+### Find me
+
+- 🌐 [turczynski.com](https://turczynski.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/turczynski/)
+- 📧 tomasz@turczynski.com
