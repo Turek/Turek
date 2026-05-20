@@ -14,7 +14,7 @@ Architecture, code, and everything between.
 ### Selected
 
 - [turczynski.com](https://turczynski.com) — services and contact.
-- **Sedno** — *Your symptoms have a story.* AI-powered symptom-journal app.
+- [sedno.io](https://sedno.io) — *Your symptoms have a story.* AI-powered symptom-journal app.
 - [drupal.org/u/Turek](https://www.drupal.org/u/Turek) — Drupal contributions.
 
 ### Find me
